@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-# Threader3000 - Multi-threader Port Scanner
-# A project by The Mayor
-# v1.0.7
-# https://github.com/dievus/threader3000
+# Threader3000 Plus - Multi-threader Port Scanner
+# A project by The Major
+# Modified by Underwoodr
+# v1.0.8
+# Based on the original by The Mayor - https://github.com/dievus/threader3000
 # Licensed under GNU GPLv3 Standards.  https://www.gnu.org/licenses/gpl-3.0.en.html
-
 
 import socket
 import os
